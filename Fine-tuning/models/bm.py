@@ -6,7 +6,7 @@ from torch.nn import functional as F
 from models.vit import VisionTransformer
 from models.unet_cross_attention import U_Net
 
-unet_path = r"/home/home/menghaoliang/code/count/distillation/check/unet_cross_att/1227-184622/unet_cross_att.pth"
+unet_path = r""
 
 
 class BM(nn.Module):

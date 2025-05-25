@@ -10,7 +10,8 @@ https://github.com/Zhaozixiang1228/MMIF-DDFM
 
 3 Fine-tuning stage: BMG tuned together with the feature extractor to suit the counting task and bridge two original modalities.
 
-Update on 25 May, 2025:
+
+- Update on 25 May, 2025:
 
 Share Link: https://pan.baidu.com/s/1pEW_77fOcbx6icZ3ndr8Pg?pwd=eysu
 

@@ -28,3 +28,6 @@ Containing:
    - Model weight after fine-tuning on DroneRGBT.
 
 Note: During fine-tuning, the format of .npy files is consistent with Bayesian Loss (https://github.com/ZhihengCV/Bayesian-Crowd-Counting): The first two columns represent the position of each annotation point. The third column records the distances between each annotation point and its nearest neighbors. The share link contains a script to generate .npy files from the original .npy files and the .npy files after processing.
+
+Update on 22 Aug, 2025: Alternative link:
+https://drive.google.com/drive/folders/1SM-8bFW8ABG5Wlxv34dVw6PE0cm348ql?usp=sharing
